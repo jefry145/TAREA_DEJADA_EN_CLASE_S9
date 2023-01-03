@@ -1,0 +1,6 @@
+<div class="form_card">
+<input type="checkbox" id="card" [(ngModel)]="card" name="card" value="1">
+<label for="card">Activar acciòn</label><br>{{card}}
+<app-card *ngIf="card; else elseBlock"></app-card>
+<ng-template #elseBlock><span >Esta desactivado</span></ng-template>
+</div>
