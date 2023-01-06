@@ -1,3 +1,5 @@
+# LA CARPETA IMG CONTIENE CAPTURAS DE LA PAGINA LANZADA EN EL SERVIDOR
+
 # Actividad10
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
